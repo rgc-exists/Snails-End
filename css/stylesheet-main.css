@@ -1,6 +1,6 @@
 *{
   font-family: 'Mukta Mahee', sans-serif;
-  color: black !important;
+  color: #e6d6f3 !important;
 }
 header{
   position: fixed;
@@ -8,13 +8,14 @@ header{
   left: 0;
   width: 100%;
   height: 100px;
-  background: rgb(255, 255, 255);
+  background: #2a1036;
 }
 #sitename{
   position: fixed;
   top: 30px;
   left: 30px;
   font-size: 2em;
+  color: #e6d6f3;
 }
 
 #pc-link{
@@ -23,51 +24,55 @@ header{
   top: 35px;
   right: 30px;
   font-size: 1.3em;
+  color: #e6d6f3;
 }
 #list{
-  background: rgb(156, 156, 156);
+  background: #1e1027;
   position: fixed;
   top: 100px;
   left: 0;
   width: 30%;
   overflow-y: auto;
+  color: #e6d6f3;
 }
 #additional-information{
-  background: rgb(190, 190, 190);
+  background: #241336;
   position: fixed;
   top: 100px;
   right: 0;
   width: 30%;
   overflow-y: auto;
+  color: #e6d6f3;
 }
 #info{
-  background: rgb(204, 204, 204);
+  background: #18091f;
   position: fixed;
   top: 100px;
   left: 30%;
   width: 40%;
   overflow-y: auto;
+  color: #e6d6f3;
 }
 #inner-info, #inner-right-info{
   padding: 1em;
 }
 .entry{
   padding: 1em;
-
+  color: #e6d6f3;
 }
 .entry:nth-child(odd){
-  background: rgb(224, 224, 224);
+  background: #25143a;
 }
 .entry:hover{
-  background: rgb(255, 255, 255);
+  background: #3a2060;
   cursor: pointer;
-  color:rgba(0, 0, 0,0.5) !important;
+  color: #d1b3ff !important;
 }
 
-A:hover {color:rgb(255, 255, 255) !important; text-decoration:none; }
+A:hover {color:#d1b3ff !important; text-decoration:none; }
 
 .selected{
-  background: rgb(190, 190, 190) !important;
+  background: #241336 !important;
 }
 .author{
   font-variant: small-caps;
@@ -75,15 +80,16 @@ A:hover {color:rgb(255, 255, 255) !important; text-decoration:none; }
 #levelname{
   font-size: 1.7em;
   font-weight: bold;
-
+  color: #e6d6f3;
 }
 #levelauthor{
   font-size: 1.1em;
+  color: #d1b3ff;
 }
 #leveldescription{
   font-size: 0.8em;
   font-variant: small-caps;
-
+  color: #b388ff;
 }
 .vid{
   width: 100%;
@@ -94,30 +100,32 @@ A:hover {color:rgb(255, 255, 255) !important; text-decoration:none; }
 #records-title{
   font-size: 1.5em;
   font-weight: bold;
-  color: black;
+  color: #d1b3ff;
 }
 #records-table{
   width: 100%;
+  color: #e6d6f3;
 }
 #explanation-simple-title{
   font-size: 1.5em;
   font-weight: bold;
-  color: black;
+  color: #d1b3ff;
 }
 #explanation-simple{
   font-size: 18px;
   font-weight: bold;
-  color: black;
+  color: #d1b3ff;
 }
 .interentry{
   width: 100%;
   padding: 0.5em;
+  color: #e6d6f3;
 }
 .record-entry:nth-child(even){
-  background: rgb(209, 209, 209)
+  background: #2a1036;
 }
 .record-entry:nth-child(odd){
-  background: rgb(235, 235, 235)
+  background: #25143a;
 }
 #block{
   position: fixed;
@@ -125,22 +133,22 @@ A:hover {color:rgb(255, 255, 255) !important; text-decoration:none; }
   left: 0;
   width: 100%;
   height: 100%;
-  background: black;
-  color: black;
+  background: #18091f;
+  color: #e6d6f3;
   font-size: 3em;
 }
 .hacked{
-  background: rgb(0, 64, 255);
-  color: white;
-  font-weight: strong;
+  background: #7c43bd;
+  color: #fff;
+  font-weight: bold;
   font-size: 0.4em;
   padding: 0.4em;
   border-radius: 1em;
 }
 .p-hacked{
-  background: rgb(151, 191, 255);
-  color: white;
-  font-weight: strong;
+  background: #4a1762;
+  color: #fff;
+  font-weight: bold;
   font-size: 0.4em;
   padding: 0.4em;
   border-radius: 1em;
@@ -151,16 +159,17 @@ A:hover {color:rgb(255, 255, 255) !important; text-decoration:none; }
   left: 0;
   width: 100%;
   height: 100%;
-  background: white;
+  background: #18091f;
   z-index: 99;
 }
 #user-rank {
   font-size: 20px;
   font-weight: bold;
+  color: #e6d6f3;
 }
 
 Swal {
-  color: black;
+  color: #d1b3ff;
 }
 /* scroll bar [DO NOT MODIFY] */
 /* width */
@@ -170,15 +179,15 @@ Swal {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #f1f1f1; 
+  background: #18091f; 
 }
  
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: grey; 
+  background: #2a1036; 
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgb(68, 68, 68); 
+  background: #7c43bd; 
 }
