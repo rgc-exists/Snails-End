@@ -310,6 +310,10 @@ const d = {
           user: "NikoHatesTaxes",
           link: "https://youtu.be/Er2OmoQCKlY",
         },
+        {
+          user: "probablyicicle",
+          link: "https://youtu.be/rD5wg_mjLcE",
+        },
       ],
       name: "Unnerfed A06",
       author: "pixxeell___ [rosalinor]",
@@ -326,6 +330,10 @@ const d = {
           user: "MacaroniAndGames",
           link: "https://www.youtube.com/watch?v=YIaMy-g3fdQ",
         },
+        {
+          user: "probablyicicle",
+          link: "https://youtu.be/GZOL-oRv_BA?si=sHvmWgVgHDwzC6HP",
+        },
       ],
       name: "More of Pain",
       author: "adpolazyz [BrokenCalculator14]",
@@ -337,7 +345,12 @@ const d = {
     /*=================================================================================*/
     /*=================================================================================*/
     {
-      vids: [],
+      vids: [
+        {
+          user: "probablyicicle",
+          link: "https://youtu.be/nFY4xdO3UFQ",
+        },
+      ],
       name: "Lucky Run",
       author: "BootifulBlaze",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3052539549",
