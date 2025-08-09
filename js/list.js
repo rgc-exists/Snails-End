@@ -252,7 +252,7 @@ const d = {
         */
       ],
       name: "Trans Rights",
-      author: "kgamesnyc",
+      author: "kgamesnyc [kgamesnyc]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3257979776",
       verificationVid: "https://www.youtube.com/watch?v=U4Swq4IrJaY",
       quote: ":3",
@@ -273,7 +273,7 @@ const d = {
         },
       ],
       name: "Stage Four",
-      author: "ppds",
+      author: "ppds [ppds]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3032254845",
       verificationVid: "https://www.youtube.com/watch?v=ItZm9RZq27g",
       quote: "CLUBSTEP MONSTER OMFG",
@@ -284,7 +284,7 @@ const d = {
     {
       vids: [],
       name: "Shutter Bug",
-      author: "BootifulBlaze",
+      author: "BootifulBlaze [BootifulBlaze]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3053296300",
       verificationVid: "https://www.youtube.com/watch?v=Ig3kUVUdyTU",
       quote:
@@ -296,7 +296,7 @@ const d = {
     {
       vids: [],
       name: "Pain",
-      author: "x8c8r",
+      author: "x8c8r [x8c8r]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3018420799",
       verificationVid: "https://www.youtube.com/watch?v=pCqZQv7Np0I",
       quote: "Pain",
@@ -352,7 +352,7 @@ const d = {
         },
       ],
       name: "Lucky Run",
-      author: "BootifulBlaze",
+      author: "BootifulBlaze [BootifulBlaze]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3052539549",
       verificationVid: "https://www.youtube.com/watch?v=KwGO_LX4Ueg",
       quote: "Luck, Timings, and Speedrunning all in one",

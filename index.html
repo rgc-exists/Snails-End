@@ -135,7 +135,7 @@
         if (rank > 150) {
             return roundNumber(15, 3);
         } else {
-            return roundNumber((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
+            return roundNumber((-24.9975*Math.pow(rank-1, 0.4) + 150) - 50, 3);
         }
     }
     function roundNumber(num, scale) {
@@ -162,7 +162,7 @@
         if (rank > 150) {
             return 0;
         } else {
-            var score = roundNumber((((100 / Math.sqrt((((rank * 10) - 1) / 50) + 0.444444)) - 50) * hzpoint) * 1, 3);
+            var score = roundNumber((-24.9975*Math.pow(rank-1, 0.4) + 150) - 50, 3);
             return score;
         }
     }
@@ -210,7 +210,7 @@
     var rank = `<ol>`;
     for (var i = 0; i < rank_data.length; i++) {
         sc = `getUserData(${i})`;
-        rank = `${rank} <span onclick="${sc}" style="cursor:pointer">${i+1}. ${rank_data[i].name} : ${roundNumber(rank_data[i].point, 0)} ➦</span><br>`;
+        rank = `${rank} <span onclick="${sc}" style="cursor:pointer">${i+1}. ${rank_data[i].name}: ${roundNumber(rank_data[i].point, 0)}</span><br>`;
     }
     rank = `${rank} </ol>`;
     rank_node.html(`${rank}`);
@@ -315,7 +315,7 @@
             if (entry.verificationVid !== null && entry.verificationVid !== "") {
                 $("#levelvid").html(`<hr><iframe class="vid" height="300" src="https://www.youtube.com/embed/${entry.verificationVid}?rel=0" frameborder="0" allowfullscreen></iframe>`);
             }
-            $("#records-score").html(`<strong>Points when completed : ${getPoint(rank)}</strong>`);
+            $("#records-score").html(`<strong>Points when completed: ${getPoint(rank)}</strong>`);
             $("#records-id").html(`<strong>Download Level <u><a href="${entry.url}" target="_blank">HERE</a></u></strong>`);
             $("#records-campaign").html(`<strong>${entry.campaign}</strong>`);
             $("#inside-level-author").html(final_author);
