@@ -85,7 +85,7 @@ const d = {
       name: "Simpl!city",
       author: "adpolazyz [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3035916768",
-      verificationVid: "https://www.youtube.com/watch?v=_uitDG1pQ2s",
+      verificationVid: "https://www.youtube.com/watch?v=ZEuIaS2YS3I",
       quote: "Not so simple after all...",
       campaign: "Standalone Level",
     },
