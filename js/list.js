@@ -152,7 +152,7 @@ const d = {
       ],
       name: "Blubble",
       author: "mischiefmarc [mischiefmarc]",
-      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3032254845",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3179692009",
       verificationVid: "https://youtu.be/32IorIUfQl4",
       quote: "Horray",
       campaign: "Standalone Level",
