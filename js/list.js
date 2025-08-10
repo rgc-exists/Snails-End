@@ -128,28 +128,7 @@ const d = {
     /*=================================================================================*/
     /*=================================================================================*/
     {
-      vids: [
-        {
-          user: "x8c8r",
-          link: "https://youtu.be/k0v6Hcx5bbI",
-        },
-        {
-          user: "BrokenCalculator14",
-          link: "https://youtu.be/LtrvavmGC7g",
-        },
-        {
-          user: "mischiefmarc",
-          link: "https://youtube.com/clip/UgkxYfKOiajj15navaopBIn2ig_UiR4WI6Yw?si=r6WqH1p3iYEApA3r",
-        },
-        {
-          user: "probablyicicle",
-          link: "https://youtu.be/2PyZF7x0bVo",
-        },
-        {
-          user: "Rosalinor",
-          link: "https://youtu.be/yMDs9CpXYrk",
-        },
-      ],
+      vids: [],
       name: "Blubble",
       author: "mischiefmarc [mischiefmarc]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3179692009",
