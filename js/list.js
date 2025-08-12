@@ -373,7 +373,7 @@ const d = {
       name: "The Start of Suffering",
       author: "adpolazyz [BrokenCalculator14]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3031814119",
-      verificationVid: "https://www.youtube.com/watch?v=YIaMy-g3fdQ",
+      verificationVid: "https://www.youtube.com/watch?v=i5P35c7U1qs",
       quote: "Jonas played this lolol",
       campaign: "Path Of Sufferment",
     },
