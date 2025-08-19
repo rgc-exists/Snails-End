@@ -50,6 +50,10 @@ const d = {
           user: "x8c8r",
           link: "https://youtu.be/s1Gt2vZwJtw",
         },
+        {
+          user: "ILoveV6",
+          link: "https://www.youtube.com/watch?v=SFyKAvkB-ZY",
+        },
       ],
       name: "A13",
       author: "x8c8r [Rosalinor]",
