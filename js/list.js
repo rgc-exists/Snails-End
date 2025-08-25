@@ -118,7 +118,7 @@ const d = {
           link: "https://youtu.be/5I6WBSCMU8E",
         },
         {
-          user: "playercore",
+          user: "PlayerCore",
           link: "https://youtu.be/N1vHZz4fVY8",
         },
       ],
@@ -132,7 +132,12 @@ const d = {
     /*=================================================================================*/
     /*=================================================================================*/
     {
-      vids: [],
+      vids: [
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=AVP_SfsaMYg",
+        },
+      ],
       name: "Blubble",
       author: "mischiefmarc [mischiefmarc]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3179692009",
@@ -152,6 +157,10 @@ const d = {
           user: "PlayerCore",
           link: "https://www.youtube.com/watch?v=uHrchvcLYGs",
         },
+        {
+          user: "Andremake",
+          link: "https://www.youtube.com/watch?v=uBDQQ5Rl220",
+        },
       ],
       name: "Corner Madness",
       author: "adpolazyz [Rosalinor]",
@@ -163,7 +172,12 @@ const d = {
     /*=================================================================================*/
     /*=================================================================================*/
     {
-      vids: [],
+      vids: [
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=dh9RxE_R7pY",
+        },
+      ],
       name: "The Vortex",
       author: "adpolazyz [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3034778307",
@@ -200,6 +214,14 @@ const d = {
           user: "Rosalinor",
           link: "https://youtu.be/yMDs9CpXYrk",
         },
+        {
+          user: "Andremake",
+          link: "https://www.youtube.com/watch?v=i5xcBTlE7X8",
+        },
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=Qe3Nj8YQiTA",
+        },
       ],
       name: "Stage Five",
       author: "ppds [RGC_Exists]",
@@ -213,7 +235,12 @@ const d = {
     /*=================================================================================*/
     /*=================================================================================*/
     {
-      vids: [],
+      vids: [
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=NmfuKqXZUJw",
+        },
+      ],
       name: "HAPPY HAPPY HAPPY HAPPY HAPPY",
       author: "adpolazyz [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3031814119",
@@ -254,6 +281,14 @@ const d = {
           user: "BootifulBlaze",
           link: "https://youtu.be/A3z_Ilg7a70",
         },
+        {
+          user: "Andremake",
+          link: "https://www.youtube.com/watch?v=8uUCSGUFTXw",
+        },
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=BU0Stn2qdNg",
+        },
       ],
       name: "Stage Four",
       author: "ppds [ppds]",
@@ -265,7 +300,16 @@ const d = {
     /*=================================================================================*/
     /*=================================================================================*/
     {
-      vids: [],
+      vids: [
+        {
+          user: "Andremake",
+          link: "https://www.youtube.com/watch?v=jMWuL78JRBc",
+        },
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=5UjacbXHJs4",
+        },
+      ],
       name: "Shutter Bug",
       author: "BootifulBlaze [BootifulBlaze]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3053296300",
@@ -277,7 +321,12 @@ const d = {
     /*=================================================================================*/
     /*=================================================================================*/
     {
-      vids: [],
+      vids: [
+        {
+          user: "Andremake",
+          link: "https://www.youtube.com/watch?v=eiepdQX080U",
+        },
+      ],
       name: "Pain",
       author: "x8c8r [x8c8r]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3018420799",
@@ -296,6 +345,14 @@ const d = {
         {
           user: "probablyicicle",
           link: "https://youtu.be/rD5wg_mjLcE",
+        },
+        {
+          user: "Andremake",
+          link: "https://www.youtube.com/watch?v=tCTDfQ8INIY",
+        },
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=aZzCR45Mi6Y",
         },
       ],
       name: "Unnerfed A06",
@@ -317,6 +374,14 @@ const d = {
           user: "probablyicicle",
           link: "https://youtu.be/GZOL-oRv_BA?si=sHvmWgVgHDwzC6HP",
         },
+        {
+          user: "Andremake",
+          link: "https://www.youtube.com/watch?v=XUL7Xdna3M0",
+        },
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=TRVg36EqOD4",
+        },
       ],
       name: "More of Pain",
       author: "adpolazyz [BrokenCalculator14]",
@@ -332,6 +397,14 @@ const d = {
         {
           user: "probablyicicle",
           link: "https://youtu.be/nFY4xdO3UFQ",
+        },
+        {
+          user: "Andremake",
+          link: "https://www.youtube.com/watch?v=hwOYGzRbl_I",
+        },
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=iCjPvwfbv7Y",
         },
       ],
       name: "Lucky Run",
@@ -372,6 +445,14 @@ const d = {
         {
           user: "MacaroniAndGames",
           link: "https://youtu.be/obKw0vRQmZc",
+        },
+        {
+          user: "Andremake",
+          link: "https://www.youtube.com/watch?v=NQYbFCdhnlk",
+        },
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=vjeQ3dCxTOQ",
         },
       ],
       name: "The Start of Suffering",
