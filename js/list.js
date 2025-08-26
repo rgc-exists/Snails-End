@@ -85,7 +85,12 @@ const d = {
     /*=================================================================================*/
     /*=================================================================================*/
     {
-      vids: [],
+      vids: [
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=24I6AcHpY2s",
+        },
+      ],
       name: "Simpl!city",
       author: "adpolazyz [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3035916768",
