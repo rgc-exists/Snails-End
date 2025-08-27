@@ -118,6 +118,27 @@ const d = {
     /*=================================================================================*/
     {
       vids: [
+        /*
+        // RECORDS FROM THE OLD VERSION OF THE LEVEL
+        {
+          user: "x8c8r",
+          link: "https://youtu.be/uFbtqac68HQ",
+        },
+        // RECORDS FROM THE OLD VERSION OF THE LEVEL
+        */
+      ],
+      name: "Trans Rights",
+      author: "kgamesnyc [kgamesnyc]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3257979776",
+      verificationVid: "https://www.youtube.com/watch?v=U4Swq4IrJaY",
+      quote: ":3",
+      wasUpdated: true,
+      campaign: "Standalone Level",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
         {
           user: "kgamesnyc",
           link: "https://youtu.be/5I6WBSCMU8E",
@@ -133,6 +154,17 @@ const d = {
       verificationVid: "https://www.youtube.com/watch?v=HyltmxE0xeA",
       quote: "Claustrophobia is your best friend",
       campaign: "Standalone Level",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [],
+      name: "Top Baller",
+      author: "stone50 [stone50]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3552292563",
+      verificationVid: "https://www.youtube.com/watch?v=kSBslYPMjDQ",
+      quote: "Precision Basketball Shooting :)",
+      campaign: "American Basketball",
     },
     /*=================================================================================*/
     /*=================================================================================*/
@@ -252,27 +284,6 @@ const d = {
       verificationVid: "https://www.youtube.com/watch?v=GFEYucdveaU",
       quote: "Happy happy happy",
       campaign: "Path Of Sufferment",
-    },
-    /*=================================================================================*/
-    /*=================================================================================*/
-    {
-      vids: [
-        /*
-        // RECORDS FROM THE OLD VERSION OF THE LEVEL
-        {
-          user: "x8c8r",
-          link: "https://youtu.be/uFbtqac68HQ",
-        },
-        // RECORDS FROM THE OLD VERSION OF THE LEVEL
-        */
-      ],
-      name: "Trans Rights",
-      author: "kgamesnyc [kgamesnyc]",
-      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3257979776",
-      verificationVid: "https://www.youtube.com/watch?v=U4Swq4IrJaY",
-      quote: ":3",
-      wasUpdated: true,
-      campaign: "Standalone Level",
     },
     /*=================================================================================*/
     /*=================================================================================*/
