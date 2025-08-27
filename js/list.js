@@ -55,7 +55,10 @@ const d = {
     /*=================================================================================*/
     /*=================================================================================*/
     {
-      vids: [],
+      vids: [{
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=Dw84BFFwPUo",
+        },],
       name: "The End Of Buff",
       author: "adpolazyz [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3033307693",
@@ -153,6 +156,10 @@ const d = {
         {
           user: "PlayerCore",
           link: "https://www.youtube.com/watch?v=AVP_SfsaMYg",
+        },
+        {
+          user: "Rosalinor",
+          link: "https://www.youtube.com/watch?v=s1QEHvWY6_A",
         },
       ],
       name: "Blubble",
@@ -325,6 +332,10 @@ const d = {
           user: "PlayerCore",
           link: "https://www.youtube.com/watch?v=5UjacbXHJs4",
         },
+        {
+          user: "Rosalinor",
+          link: "https://www.youtube.com/watch?v=Wug_52en31g",
+        },
       ],
       name: "Shutter Bug",
       author: "BootifulBlaze [BootifulBlaze]",
@@ -341,6 +352,10 @@ const d = {
         {
           user: "Andremake",
           link: "https://www.youtube.com/watch?v=eiepdQX080U",
+        },
+        {
+          user: "Rosalinor",
+          link: "https://www.youtube.com/watch?v=ld-8abvBZCo",
         },
       ],
       name: "Pain",
@@ -372,7 +387,7 @@ const d = {
         },
       ],
       name: "Unnerfed A06",
-      author: "pixxeell___ [rosalinor]",
+      author: "pixxeell___ [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3058113716",
       verificationVid: "https://www.youtube.com/watch?v=sQAXoZ7x1hw",
       quote: "This is too short for real",
@@ -397,6 +412,10 @@ const d = {
         {
           user: "PlayerCore",
           link: "https://www.youtube.com/watch?v=TRVg36EqOD4",
+        },
+        {
+          user: "Rosalinor",
+          link: "https://youtu.be/pVa6UTwpO24?si=s72r1hwBpEEVGtFm",
         },
       ],
       name: "More of Pain",
@@ -469,6 +488,10 @@ const d = {
         {
           user: "PlayerCore",
           link: "https://www.youtube.com/watch?v=vjeQ3dCxTOQ",
+        },
+        {
+          user: "93sleepy",
+          link: "https://www.youtube.com/watch?v=BNMeZ34eXpY",
         },
       ],
       name: "The Start of Suffering",
