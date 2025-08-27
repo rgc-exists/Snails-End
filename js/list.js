@@ -138,26 +138,6 @@ const d = {
     /*=================================================================================*/
     /*=================================================================================*/
     {
-      vids: [
-        {
-          user: "kgamesnyc",
-          link: "https://youtu.be/5I6WBSCMU8E",
-        },
-        {
-          user: "PlayerCore",
-          link: "https://youtu.be/N1vHZz4fVY8",
-        },
-      ],
-      name: "Eclipse",
-      author: "adpolazyz [Rosalinor]",
-      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3037072433",
-      verificationVid: "https://www.youtube.com/watch?v=HyltmxE0xeA",
-      quote: "Claustrophobia is your best friend",
-      campaign: "Standalone Level",
-    },
-    /*=================================================================================*/
-    /*=================================================================================*/
-    {
       vids: [],
       name: "Top Baller",
       author: "stone50 [stone50]",
@@ -220,6 +200,26 @@ const d = {
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3034778307",
       verificationVid: "https://www.youtube.com/watch?v=GCuS7z9lL2c",
       quote: "A very fun underwater level that will test your skills!",
+      campaign: "Standalone Level",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
+        {
+          user: "kgamesnyc",
+          link: "https://youtu.be/5I6WBSCMU8E",
+        },
+        {
+          user: "PlayerCore",
+          link: "https://youtu.be/N1vHZz4fVY8",
+        },
+      ],
+      name: "Eclipse",
+      author: "adpolazyz [Rosalinor]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3037072433",
+      verificationVid: "https://www.youtube.com/watch?v=HyltmxE0xeA",
+      quote: "Claustrophobia is your best friend",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
