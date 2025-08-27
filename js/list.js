@@ -18,13 +18,23 @@ const d = {
     /*=================================================================================*/
     /*=================================================================================*/
     {
-      vids: [],
-      name: "The End Of Buff",
-      author: "adpolazyz [Rosalinor]",
-      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3033307693",
-      verificationVid: "https://youtu.be/iN6kROY2tRs",
-      quote: "Should be buffed",
-      campaign: "The Buffing Station",
+      vids: [
+        /*
+        // RECORDS FROM THE OLD VERSION OF THE LEVEL
+        {
+          user: "x8c8r",
+          link: "https://youtu.be/uFbtqac68HQ",
+        },
+        // RECORDS FROM THE OLD VERSION OF THE LEVEL
+        */
+      ],
+      name: "Trans Rights",
+      author: "kgamesnyc [kgamesnyc]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3257979776",
+      verificationVid: "https://www.youtube.com/watch?v=U4Swq4IrJaY",
+      quote: ":3",
+      wasUpdated: true,
+      campaign: "Standalone Level",
     },
     /*=================================================================================*/
     /*=================================================================================*/
@@ -40,6 +50,53 @@ const d = {
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3172623897",
       verificationVid: "https://www.youtube.com/watch?v=OnLccB_wmxQ",
       quote: "Dedicated to my arch-rival rosalinor <3",
+      campaign: "Standalone Level",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [],
+      name: "The End Of Buff",
+      author: "adpolazyz [Rosalinor]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3033307693",
+      verificationVid: "https://youtu.be/iN6kROY2tRs",
+      quote: "Should be buffed",
+      campaign: "The Buffing Station",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=24I6AcHpY2s",
+        },
+      ],
+      name: "Simpl!city",
+      author: "adpolazyz [Rosalinor]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3035916768",
+      verificationVid: "https://www.youtube.com/watch?v=ZEuIaS2YS3I",
+      quote: "Not so simple after all...",
+      campaign: "Standalone Level",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
+        {
+          user: "x8c8r",
+          link: "https://youtu.be/1ukXPLYHDOE",
+        },
+        {
+          user: "masrock9",
+          link: "https://youtu.be/9JthCn5gAj4",
+        },
+      ],
+      name: "Timeless",
+      author: "adpolazyz [Rosalinor]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3035140442",
+      verificationVid: "https://www.youtube.com/watch?v=_uitDG1pQ2s",
+      quote: "It's time to kick bubblegum and chew ass",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
@@ -67,42 +124,6 @@ const d = {
     {
       vids: [
         {
-          user: "x8c8r",
-          link: "https://youtu.be/1ukXPLYHDOE",
-        },
-        {
-          user: "masrock9",
-          link: "https://youtu.be/9JthCn5gAj4",
-        },
-      ],
-      name: "Timeless",
-      author: "adpolazyz [Rosalinor]",
-      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3035140442",
-      verificationVid: "https://www.youtube.com/watch?v=_uitDG1pQ2s",
-      quote: "It's time to kick bubblegum and chew ass",
-      campaign: "Standalone Level",
-    },
-    /*=================================================================================*/
-    /*=================================================================================*/
-    {
-      vids: [
-        {
-          user: "PlayerCore",
-          link: "https://www.youtube.com/watch?v=24I6AcHpY2s",
-        },
-      ],
-      name: "Simpl!city",
-      author: "adpolazyz [Rosalinor]",
-      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3035916768",
-      verificationVid: "https://www.youtube.com/watch?v=ZEuIaS2YS3I",
-      quote: "Not so simple after all...",
-      campaign: "Standalone Level",
-    },
-    /*=================================================================================*/
-    /*=================================================================================*/
-    {
-      vids: [
-        {
           user: "BrokenCalculator14",
           link: "https://youtu.be/ZKf9sv6TpxQ",
         },
@@ -112,27 +133,6 @@ const d = {
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3034033387",
       verificationVid: "https://www.youtube.com/watch?v=_v5Efu6iFv4",
       quote: "The puzzle of DOOM!",
-      campaign: "Standalone Level",
-    },
-    /*=================================================================================*/
-    /*=================================================================================*/
-    {
-      vids: [
-        /*
-        // RECORDS FROM THE OLD VERSION OF THE LEVEL
-        {
-          user: "x8c8r",
-          link: "https://youtu.be/uFbtqac68HQ",
-        },
-        // RECORDS FROM THE OLD VERSION OF THE LEVEL
-        */
-      ],
-      name: "Trans Rights",
-      author: "kgamesnyc [kgamesnyc]",
-      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3257979776",
-      verificationVid: "https://www.youtube.com/watch?v=U4Swq4IrJaY",
-      quote: ":3",
-      wasUpdated: true,
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
