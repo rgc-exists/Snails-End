@@ -417,6 +417,10 @@ const d = {
           user: "Rosalinor",
           link: "https://youtu.be/pVa6UTwpO24?si=s72r1hwBpEEVGtFm",
         },
+        {
+          user: "93sleepy",
+          link: "https://www.youtube.com/watch?v=p27vvaz_ZuI",
+        },
       ],
       name: "More of Pain",
       author: "adpolazyz [BrokenCalculator14]",
@@ -440,6 +444,10 @@ const d = {
         {
           user: "PlayerCore",
           link: "https://www.youtube.com/watch?v=iCjPvwfbv7Y",
+        },
+        {
+          user: "93sleepy",
+          link: "https://www.youtube.com/watch?v=9oHhyl5mSHc",
         },
       ],
       name: "Lucky Run",
