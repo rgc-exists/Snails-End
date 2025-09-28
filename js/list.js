@@ -19,14 +19,10 @@ const d = {
     /*=================================================================================*/
     {
       vids: [
-        /*
-        // RECORDS FROM THE OLD VERSION OF THE LEVEL
         {
-          user: "x8c8r",
-          link: "https://youtu.be/uFbtqac68HQ",
+          user: "Rosalinor",
+          link: "https://youtu.be/eI23T9dVIJw",
         },
-        // RECORDS FROM THE OLD VERSION OF THE LEVEL
-        */
       ],
       name: "Trans Rights",
       author: "kgamesnyc [kgamesnyc]",
@@ -141,7 +137,12 @@ const d = {
     /*=================================================================================*/
     /*=================================================================================*/
     {
-      vids: [],
+      vids: [
+        {
+          user: "Rosalinor",
+          link: "https://youtu.be/aMp5A-VT_dQ",
+        },
+      ],
       name: "Top Baller",
       author: "stone50 [stone50]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3552292563",
@@ -384,6 +385,10 @@ const d = {
         {
           user: "PlayerCore",
           link: "https://www.youtube.com/watch?v=aZzCR45Mi6Y",
+        },
+        {
+          user: "93sleepy",
+          link: "https://youtu.be/JkaIiGoSRQ0",
         },
       ],
       name: "Unnerfed A06",
