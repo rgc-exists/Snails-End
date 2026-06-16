@@ -3,6 +3,19 @@ const d = {
     /*=================================================================================*/
     {
       vids: [
+
+      ],
+      name: "rerecaptcha",
+      author: "GGlitch [GGlitch]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3543606264",
+      verificationVid: "https://youtu.be/cq7IXNJQolU",
+      quote: "Select all images with <b>your demise</b>.",
+      campaign: "Standalone Level",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
         {
           user: "Rosalinor",
           link: "https://youtu.be/QPjioKGG3rk",
@@ -38,6 +51,18 @@ const d = {
       verificationVid: "https://www.youtube.com/watch?v=U4Swq4IrJaY",
       quote: ":3",
       wasUpdated: true,
+      campaign: "Standalone Level",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
+      ],
+      name: "TrenchTripleTrouble",
+      author: "GGlitch [GGlitch]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3649583961",
+      verificationVid: "https://youtu.be/1U6BElR5hfc",
+      quote: "A tower of trenches",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
@@ -156,6 +181,18 @@ const d = {
     /*=================================================================================*/
     {
       vids: [
+      ],
+      name: "unicorn test",
+      author: "GGlitch [GGlitch]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3656789068",
+      verificationVid: "https://www.youtube.com/watch?v=1WPNJ9qYdS0",
+      quote: "᪤ﺗ  ▦",
+      campaign: "Standalone Level",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
         {
           user: "BrokenCalculator14",
           link: "https://youtu.be/ZKf9sv6TpxQ",
@@ -187,6 +224,18 @@ const d = {
       verificationVid: "https://www.youtube.com/watch?v=kSBslYPMjDQ",
       quote: "Precision Basketball Shooting :)",
       campaign: "American Basketball",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
+      ],
+      name: "Stage IX",
+      author: "adpolazyz [PlayerCore]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3033307693",
+      verificationVid: "https://youtu.be/b29mOfSh3rs",
+      quote: "End of  buff but easy, ok  level",
+      campaign: "The Buffing Station",
     },
     /*=================================================================================*/
     /*=================================================================================*/
@@ -266,6 +315,18 @@ const d = {
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3037072433",
       verificationVid: "https://www.youtube.com/watch?v=HyltmxE0xeA",
       quote: "Claustrophobia is your best friend",
+      campaign: "Standalone Level",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
+      ],
+      name: "Emptyness",
+      author: "adpolazyz [Rosalinor]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3044163284",
+      verificationVid: "https://youtu.be/qFqdfT118uI",
+      quote: "Try to die in this level (no Reset)",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
