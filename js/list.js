@@ -493,6 +493,10 @@ const d = {
           user: "92sleepy",
           link: "https://youtu.be/JkaIiGoSRQ0",
         },
+        {
+          user: "Rchat42",
+          link: "https://www.youtube.com/watch?v=Q1hskD8FN2M",
+        }
       ],
       name: "Unnerfed A06",
       author: "pixxeell___ [Rosalinor]",
