@@ -7,6 +7,10 @@ const d = {
           user: "Rosalinor",
           link: "https://youtu.be/QPjioKGG3rk",
         },
+        {
+          user: "GGlitch",
+          link: "https://www.youtube.com/watch?v=-mlZdZeQHUc",
+        },
       ],
       name: "Extinction",
       author: "ShadyIsCool [x8c8r]",
@@ -22,6 +26,10 @@ const d = {
         {
           user: "Rosalinor",
           link: "https://youtu.be/eI23T9dVIJw",
+        },
+        {
+          user: "GGlitch",
+          link: "https://youtu.be/Q-rmkCGFTJs",
         },
       ],
       name: "Trans Rights",
@@ -44,6 +52,10 @@ const d = {
           user: "GGlitch",
           link: "https://www.youtube.com/watch?v=kLjFqZEjuqI"
         },
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=xECNDhQrANw",
+        }
       ],
       name: "Trench",
       author: "adpolazyz [x8c8r]",
@@ -55,10 +67,16 @@ const d = {
     /*=================================================================================*/
     /*=================================================================================*/
     {
-      vids: [{
+      vids: [
+        {
           user: "PlayerCore",
           link: "https://www.youtube.com/watch?v=Dw84BFFwPUo",
-        },],
+        },
+        {
+          user: "GGlitch",
+          link: "https://www.youtube.com/watch?v=vFQ7PGSZHmk",
+        },
+      ],
       name: "The End Of Buff",
       author: "adpolazyz [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3033307693",
@@ -73,6 +91,10 @@ const d = {
         {
           user: "PlayerCore",
           link: "https://www.youtube.com/watch?v=24I6AcHpY2s",
+        },
+        {
+          user: "GGlitch",
+          link: "https://www.youtube.com/watch?v=xpChGiJJ-K8",
         },
       ],
       name: "Simpl!city",
@@ -94,6 +116,10 @@ const d = {
           user: "masrock9",
           link: "https://youtu.be/9JthCn5gAj4",
         },
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=BVdPckzN5Uk",
+        }
       ],
       name: "Timeless",
       author: "adpolazyz [Rosalinor]",
@@ -114,6 +140,10 @@ const d = {
           user: "ILoveV6",
           link: "https://www.youtube.com/watch?v=SFyKAvkB-ZY",
         },
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=A5LU7jgLk3w",
+        }
       ],
       name: "A13",
       author: "x8c8r [Rosalinor]",
@@ -129,6 +159,10 @@ const d = {
         {
           user: "BrokenCalculator14",
           link: "https://youtu.be/ZKf9sv6TpxQ",
+        },
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=hzV3G5hJvmo",
         },
       ],
       name: "Puzzle of Pain",
@@ -361,6 +395,10 @@ const d = {
         {
           user: "Rosalinor",
           link: "https://www.youtube.com/watch?v=ld-8abvBZCo",
+        },
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=vgshkMhzQhM",
         },
       ],
       name: "Pain",
