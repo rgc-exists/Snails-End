@@ -3,9 +3,12 @@ const d = {
     /*=================================================================================*/
     {
       vids: [
-
+        {
+          user: "Rosalinor",
+          link: "https://www.youtube.com/watch?v=58T3dGNMs38"
+        }
       ],
-      name: "rerecaptcha",
+      name: "Rerecaptcha",
       author: "GGlitch [GGlitch]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3543606264",
       verificationVid: "https://youtu.be/cq7IXNJQolU",
@@ -182,7 +185,7 @@ const d = {
     {
       vids: [
       ],
-      name: "unicorn test",
+      name: "Unicorn Test",
       author: "GGlitch [GGlitch]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3656789068",
       verificationVid: "https://www.youtube.com/watch?v=1WPNJ9qYdS0",
@@ -214,6 +217,26 @@ const d = {
     {
       vids: [
         {
+          user: "BrokenCalculator14",
+          link: "https://youtu.be/ZKf9sv6TpxQ",
+        },
+        {
+          user: "PlayerCore",
+          link: "https://www.youtube.com/watch?v=hzV3G5hJvmo",
+        },
+      ],
+      name: "A Level",
+      author: "GGlitch [PlayerCore]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3556649573",
+      verificationVid: "https://youtu.be/qIF3RBs7v9c",
+      quote: "Claustrophobic. Short but difficult(also gglitch beat it before publishing just fyi)",
+      campaign: "Standalone Level",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
+        {
           user: "Rosalinor",
           link: "https://youtu.be/aMp5A-VT_dQ",
         },
@@ -236,6 +259,18 @@ const d = {
       verificationVid: "https://youtu.be/b29mOfSh3rs",
       quote: "End of  buff but easy, ok  level",
       campaign: "The Buffing Station",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
+      ],
+      name: "Section 5",
+      author: "Rchat42 [Rchat42]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3763474185",
+      verificationVid: "https://www.youtube.com/watch?v=fYf2r0NVURI",
+      quote: "I spent literally forever getting those cannons to behave because of Jonas' coding",
+      campaign: "Floating Snailskirts",
     },
     /*=================================================================================*/
     /*=================================================================================*/
@@ -272,6 +307,10 @@ const d = {
         {
           user: "Andremake",
           link: "https://www.youtube.com/watch?v=uBDQQ5Rl220",
+        },
+        {
+          user: "Rchat42",
+          link: "https://www.youtube.com/watch?v=xEG0DP9FFN0",
         },
       ],
       name: "Corner Madness",
@@ -412,6 +451,10 @@ const d = {
           user: "PlayerCore",
           link: "https://www.youtube.com/watch?v=BU0Stn2qdNg",
         },
+        {
+          user: "Rchat42",
+          link: "https://www.youtube.com/watch?v=wuh_RAwMt4g",
+        },
       ],
       name: "Stage Four",
       author: "ppds [ppds]",
@@ -419,6 +462,19 @@ const d = {
       verificationVid: "https://www.youtube.com/watch?v=ItZm9RZq27g",
       quote: "CLUBSTEP MONSTER OMFG",
       campaign: "Speed Racer",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
+      ],
+      name: "Bald Level",
+      author: "BootifulBlaze [BootifulBlaze]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3561619637",
+      verificationVid: "https://youtu.be/TbkQTyZpwJ0",
+      quote:
+        "Bald",
+      campaign: "Bald Pack No. 1",
     },
     /*=================================================================================*/
     /*=================================================================================*/
