@@ -184,6 +184,10 @@ const d = {
     /*=================================================================================*/
     {
       vids: [
+        {
+          user: "Bananamath",
+          link: "https://youtu.be/t_hiCSvJi74",
+        }
       ],
       name: "Unicorn Test",
       author: "GGlitch [GGlitch]",
@@ -252,6 +256,10 @@ const d = {
     /*=================================================================================*/
     {
       vids: [
+        {
+          user: "Rchat42",
+          link: "https://www.youtube.com/watch?v=loZKWl2TuFM",
+        }
       ],
       name: "Stage IX",
       author: "Adoplayzz [PlayerCore]",
@@ -593,6 +601,10 @@ const d = {
           user: "92sleepy",
           link: "https://www.youtube.com/watch?v=p27vvaz_ZuI",
         },
+        {
+          user: "Rchat42",
+          link: "https://www.youtube.com/watch?v=1s-Di42R_ok",
+        },
       ],
       name: "More of Pain",
       author: "Adoplayzz [BrokenCalculator14]",
@@ -672,6 +684,10 @@ const d = {
         {
           user: "92sleepy",
           link: "https://www.youtube.com/watch?v=BNMeZ34eXpY",
+        },
+        {
+          user: "Rchat42",
+          link: "https://www.youtube.com/watch?v=UgRZlqUaRFE",
         },
       ],
       name: "The Start of Suffering",
