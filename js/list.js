@@ -4,7 +4,7 @@ const d = {
     {
       vids: [
       ],
-      name: "This is Not B03",
+      name: "This Is Not B03",
       author: "GGlitch [GGlitch]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3629047262",
       verificationVid: "https://youtu.be/ol9til1cZGs",
