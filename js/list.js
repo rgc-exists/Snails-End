@@ -3,6 +3,18 @@ const d = {
     /*=================================================================================*/
     {
       vids: [
+      ],
+      name: "This is Not B03",
+      author: "GGlitch [GGlitch]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3629047262",
+      verificationVid: "https://youtu.be/ol9til1cZGs",
+      quote: "B03 is fun, water levels are fun and difficulty is fun. Here's a fun level.",
+      campaign: "Standalone Level",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
         {
           user: "Rosalinor",
           link: "https://www.youtube.com/watch?v=58T3dGNMs38"
@@ -65,7 +77,7 @@ const d = {
       author: "GGlitch [GGlitch]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3649583961",
       verificationVid: "https://youtu.be/1U6BElR5hfc",
-      quote: "A tower of trenches",
+      quote: "A tower of trenches.",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
@@ -89,7 +101,7 @@ const d = {
       author: "Adoplayzz [x8c8r]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3172623897",
       verificationVid: "https://www.youtube.com/watch?v=OnLccB_wmxQ",
-      quote: "Dedicated to my arch-rival rosalinor <3",
+      quote: "Dedicated to my arch-rival rosalinor <3.",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
@@ -105,11 +117,11 @@ const d = {
           link: "https://www.youtube.com/watch?v=vFQ7PGSZHmk",
         },
       ],
-      name: "The End Of Buff",
+      name: "The End of Buff",
       author: "Adoplayzz [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3033307693",
       verificationVid: "https://youtu.be/iN6kROY2tRs",
-      quote: "Should be buffed",
+      quote: "Should be buffed.",
       campaign: "The Buffing Station",
     },
     /*=================================================================================*/
@@ -153,7 +165,7 @@ const d = {
       author: "Adoplayzz [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3035140442",
       verificationVid: "https://www.youtube.com/watch?v=_uitDG1pQ2s",
-      quote: "It's time to kick bubblegum and chew ass",
+      quote: "It's time to kick bubblegum and chew ass.",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
@@ -177,7 +189,7 @@ const d = {
       author: "x8c8r [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3018420799",
       verificationVid: "https://www.youtube.com/watch?v=_WqZ3nLSCso",
-      quote: "Literally just A13, there is nothing else",
+      quote: "Literally just A13, there is nothing else.",
       campaign: "Xeight's Awesome Campaig",
     },
     /*=================================================================================*/
@@ -233,7 +245,7 @@ const d = {
       author: "GGlitch [PlayerCore]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3556649573",
       verificationVid: "https://youtu.be/qIF3RBs7v9c",
-      quote: "Claustrophobic. Short but difficult(also gglitch beat it before publishing just fyi)",
+      quote: "Claustrophobic. Short but difficult (also GGlitch beat it before publishing).",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
@@ -249,7 +261,7 @@ const d = {
       author: "stone50 [stone50]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3552292563",
       verificationVid: "https://www.youtube.com/watch?v=kSBslYPMjDQ",
-      quote: "Precision Basketball Shooting :)",
+      quote: "Precision Basketball Shooting :).",
       campaign: "American Basketball",
     },
     /*=================================================================================*/
@@ -265,7 +277,7 @@ const d = {
       author: "Adoplayzz [PlayerCore]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3033307693",
       verificationVid: "https://youtu.be/b29mOfSh3rs",
-      quote: "End of  buff but easy, ok  level",
+      quote: "End of  buff but easy, ok  level.",
       campaign: "The Buffing Station",
     },
     /*=================================================================================*/
@@ -277,7 +289,7 @@ const d = {
       author: "Rchat42 [Rchat42]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3763474185",
       verificationVid: "https://www.youtube.com/watch?v=fYf2r0NVURI",
-      quote: "I spent literally forever getting those cannons to behave because of Jonas' coding",
+      quote: "I spent literally forever getting those cannons to behave because of Jonas' coding.",
       campaign: "Floating Snailskirts",
     },
     /*=================================================================================*/
@@ -297,7 +309,7 @@ const d = {
       author: "mischiefmarc [mischiefmarc]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3179692009",
       verificationVid: "https://youtu.be/32IorIUfQl4",
-      quote: "Horray",
+      quote: "Horray.",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
@@ -325,7 +337,7 @@ const d = {
       author: "Adoplayzz [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3031814119",
       verificationVid: "https://www.youtube.com/watch?v=GeqwKPsQTzc",
-      quote: "Cornered the corner because the cornered corner is cornering",
+      quote: "Cornered the corner because the cornered corner is cornering.",
       campaign: "Path Of Sufferment",
     },
     /*=================================================================================*/
@@ -361,7 +373,7 @@ const d = {
       author: "Adoplayzz [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3037072433",
       verificationVid: "https://www.youtube.com/watch?v=HyltmxE0xeA",
-      quote: "Claustrophobia is your best friend",
+      quote: "Claustrophobia is your best friend.",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
@@ -373,7 +385,7 @@ const d = {
       author: "Adoplayzz [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3044163284",
       verificationVid: "https://youtu.be/qFqdfT118uI",
-      quote: "Try to die in this level (no Reset)",
+      quote: "Try to die in this level (no Reset).",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
@@ -423,7 +435,7 @@ const d = {
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3032254845",
       verificationVid: "https://www.youtube.com/watch?v=dp8OO0VQDsA",
       // OLD VERSION VERIFICATION: https://youtu.be/lpyyk9hZfAM
-      quote: "Stage the fifth of Gibraltar",
+      quote: "Stage the fifth of Gibraltar.",
       wasUpdated: true,
       campaign: "Speed Racer",
     },
@@ -440,7 +452,7 @@ const d = {
       author: "Adoplayzz [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3031814119",
       verificationVid: "https://www.youtube.com/watch?v=GFEYucdveaU",
-      quote: "Happy happy happy",
+      quote: "Happy happy happy.",
       campaign: "Path Of Sufferment",
     },
     /*=================================================================================*/
@@ -472,7 +484,7 @@ const d = {
       author: "ppds [ppds]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3032254845",
       verificationVid: "https://www.youtube.com/watch?v=ItZm9RZq27g",
-      quote: "CLUBSTEP MONSTER OMFG",
+      quote: "CLUBSTEP MONSTER OMFG.",
       campaign: "Speed Racer",
     },
     /*=================================================================================*/
@@ -485,7 +497,7 @@ const d = {
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3561619637",
       verificationVid: "https://youtu.be/TbkQTyZpwJ0",
       quote:
-        "Bald",
+        "Bald.",
       campaign: "Bald Pack No. 1",
     },
     /*=================================================================================*/
@@ -510,7 +522,7 @@ const d = {
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3053296300",
       verificationVid: "https://www.youtube.com/watch?v=Ig3kUVUdyTU",
       quote:
-        "You just got RGC Exist'd. Send this to your friends to totally RGC Exist them ( ͡° ͜ʖ ͡°)",
+        "You just got RGC Exist'd. Send this to your friends to totally RGC Exist them ( ͡° ͜ʖ ͡°).",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
@@ -534,7 +546,7 @@ const d = {
       author: "x8c8r [x8c8r]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3018420799",
       verificationVid: "https://www.youtube.com/watch?v=pCqZQv7Np0I",
-      quote: "Pain",
+      quote: "Pain.",
       campaign: "xeight's awesome campaig",
     },
     /*=================================================================================*/
@@ -570,7 +582,7 @@ const d = {
       author: "pixxeell___ [Rosalinor]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3058113716",
       verificationVid: "https://www.youtube.com/watch?v=sQAXoZ7x1hw",
-      quote: "This is too short for real",
+      quote: "This is too short for real.",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
@@ -638,7 +650,7 @@ const d = {
       author: "BootifulBlaze [BootifulBlaze]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3052539549",
       verificationVid: "https://www.youtube.com/watch?v=KwGO_LX4Ueg",
-      quote: "Luck, Timings, and Speedrunning all in one",
+      quote: "Luck, Timings, and Speedrunning all in one.",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
@@ -694,7 +706,7 @@ const d = {
       author: "Adoplayzz [BrokenCalculator14]",
       url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3031814119",
       verificationVid: "https://www.youtube.com/watch?v=i5P35c7U1qs",
-      quote: "Jonas played this lolol",
+      quote: "Jonas played this lolol.",
       campaign: "Path Of Sufferment",
     },
     /*=================================================================================*/
