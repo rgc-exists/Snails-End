@@ -51,6 +51,18 @@ const d = {
     /*=================================================================================*/
     {
       vids: [
+      ],
+      name: "TrenchTripleTrouble",
+      author: "GGlitch [GGlitch]",
+      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3649583961",
+      verificationVid: "https://youtu.be/1U6BElR5hfc",
+      quote: "A tower of trenches.",
+      campaign: "Standalone Level",
+    },
+    /*=================================================================================*/
+    /*=================================================================================*/
+    {
+      vids: [
         {
           user: "Rosalinor",
           link: "https://youtu.be/eI23T9dVIJw",
@@ -66,18 +78,6 @@ const d = {
       verificationVid: "https://www.youtube.com/watch?v=U4Swq4IrJaY",
       quote: ":3",
       wasUpdated: true,
-      campaign: "Standalone Level",
-    },
-    /*=================================================================================*/
-    /*=================================================================================*/
-    {
-      vids: [
-      ],
-      name: "TrenchTripleTrouble",
-      author: "GGlitch [GGlitch]",
-      url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3649583961",
-      verificationVid: "https://youtu.be/1U6BElR5hfc",
-      quote: "A tower of trenches.",
       campaign: "Standalone Level",
     },
     /*=================================================================================*/
