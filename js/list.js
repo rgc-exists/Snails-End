@@ -233,13 +233,9 @@ const d = {
     {
       vids: [
         {
-          user: "BrokenCalculator14",
-          link: "https://youtu.be/ZKf9sv6TpxQ",
-        },
-        {
-          user: "PlayerCore",
-          link: "https://www.youtube.com/watch?v=hzV3G5hJvmo",
-        },
+          user: "Rchat42",
+          link: "https://www.youtube.com/watch?v=ztKUuZvNDEk",
+        }
       ],
       name: "A Level",
       author: "GGlitch [PlayerCore]",
@@ -303,6 +299,10 @@ const d = {
         {
           user: "Rosalinor",
           link: "https://www.youtube.com/watch?v=s1QEHvWY6_A",
+        },
+        {
+          user: "Rchat42",
+          link: "https://www.youtube.com/watch?v=k07zg2tN7MU",
         },
       ],
       name: "Blubble",
@@ -368,6 +368,10 @@ const d = {
           user: "PlayerCore",
           link: "https://youtu.be/N1vHZz4fVY8",
         },
+        {
+          user: "Rchat42",
+          link: "https://www.youtube.com/watch?v=PaQKABhc4RI",
+        },
       ],
       name: "Eclipse",
       author: "Adoplayzz [Rosalinor]",
@@ -380,6 +384,10 @@ const d = {
     /*=================================================================================*/
     {
       vids: [
+        {
+          user: "Rchat42",
+          link: "https://www.youtube.com/watch?v=SVMAtbP0UZY",
+        }
       ],
       name: "Emptyness",
       author: "Adoplayzz [Rosalinor]",
